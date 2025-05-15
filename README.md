@@ -111,7 +111,7 @@ More analytics including:
 ## 📞 Contact & Contributions
 
 Created by **Hetkumar Patel**  
-[LinkedIn](https://www.linkedin.com/in/hetkumar-patel) | [GitHub](https://github.com/hetkumarpatel)  
+[LinkedIn](https://www.linkedin.com/in/het-patel-359184246/) | [GitHub](https://github.com/HetPatel2022)  
 
 Feel free to contribute or reach out with questions!
 
