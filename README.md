@@ -115,8 +115,3 @@ Created by **Hetkumar Patel**
 
 Feel free to contribute or reach out with questions!
 
----
-
-<p align="center">
-  Made with ❤️ and SQL 🔥
-</p>
